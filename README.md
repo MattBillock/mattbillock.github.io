@@ -1,4 +1,5 @@
-### Hi there 👋
+### Windy City Brass Society
+Welcome to the home page of the Windy City Brass Society!
 
 <!--
 **MattBillock/mattbillock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
