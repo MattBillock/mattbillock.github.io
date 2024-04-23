@@ -17,7 +17,7 @@ Coming soon!
 
 # Donations
 
-<script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/windy-city-brass-society?language=en" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 500px; min-width: 250px; max-height:none!important"></iframe>
+<a class="dbox-donation-page-button" href="https://donorbox.org/windy-city-brass-society?default_interval=o" style="background: rgb(231, 76, 60); color: rgb(255, 255, 255); text-decoration: none; font-family: Verdana, sans-serif; display: flex; font-size: 16px; padding: 8px 24px; border-radius: 5px; gap: 8px; width: fit-content; line-height: 24px;"><img src="https://donorbox.org/images/white_logo.svg" style="">Donate</a>
 
 # Sponsors
 
