@@ -1,4 +1,6 @@
+![Windy City Brass Society Logo.](assets/images/WCBS%20Logo%20Ideas.png)
 ### Windy City Brass Society
+
 Welcome to the home page of the Windy City Brass Society!
 
 <!--
