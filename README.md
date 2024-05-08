@@ -13,7 +13,7 @@ The inaugural Windy City Brass Academy will take place on *June 29th, 2024* at 9
 
 # Mailing List
 
-Coming soon!
+Join our mailing list to stay informed about the latest activity in youth brass music! [Sign up here](https://mailchi.mp/c2f8d0ceabab/windy-city-brass-society)
 
 # Donations
 
