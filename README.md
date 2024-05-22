@@ -9,7 +9,11 @@ The Windy City Brass Society is a collection of some of the top competitive bras
 
 # When and Where
 
-The inaugural Windy City Brass Academy will take place on *June 29th, 2024* at 9 AM. Location is currently being finalized.
+The Windy City Brass Academy's inaugural session will take place on June 29, 2024, at Mundelein High School - 1350 W Hawley Street, Mundelein, IL 60060
+
+# Secure your spot!
+
+Are you ready to join us for this new musical adventure? [Fill out our RSVP form!](https://docs.google.com/forms/d/e/1FAIpQLSfIlbnKOGz3Z5aQQkyodSzjB7utBgKYQ0Id7eEH7iVy_PkKWA/viewform?usp=sf_link)
 
 # Mailing List
 
