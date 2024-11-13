@@ -23,7 +23,7 @@ The Windy City Brass Academy's second session will take place on January 4, 2025
 
 # Secure your spot!
 
-Are you ready to join us for this new musical adventure? [Fill out our RSVP form!](https://docs.google.com/forms/d/e/1FAIpQLSfIlbnKOGz3Z5aQQkyodSzjB7utBgKYQ0Id7eEH7iVy_PkKWA/viewform?usp=sf_link)
+Are you ready to join us for this new musical adventure? [Fill out our RSVP form!](https://forms.gle/QoF72H8yGkV3JpvKA)
 
 # Mailing List
 
