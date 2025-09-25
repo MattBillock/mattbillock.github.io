@@ -3,6 +3,10 @@
 
 Welcome to the home page of the Windy City Brass Society!
 
+# COMING SOON - A weekly youth band!
+
+Watch this space for more details on our upcoming weekly-rehearsing youth brass band!
+
 # About
 
 The Windy City Brass Society is a collection of some of the leading brass and percussion musicians in Chicago, dedicated to creating an enriching and fruitful education experience for youth brass and percussion musicians throughout the Chicagoland area. Through our Academy program, led by some of the top minds in competitive brass music, we seek to educate brass and percussion musicians from all communities in the brass band medium, challenging them and providing them with the tools to grow into strong, thoughtful musicians with a passion for creating wonderful music.
