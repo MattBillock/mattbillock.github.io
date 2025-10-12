@@ -3,6 +3,8 @@
 
 Welcome to the home page of the Windy City Brass Society!
 
+# WEBSITE UNDER CONSTRUCTION - please see facebook for our latest news and wvents!
+
 # COMING SOON - A weekly youth band!
 
 Watch this space for more details on our upcoming weekly-rehearsing youth brass band!
