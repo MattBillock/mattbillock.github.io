@@ -3,37 +3,19 @@
 
 Welcome to the home page of the Windy City Brass Society!
 
-# WEBSITE UNDER CONSTRUCTION - please see facebook for our latest news and events!
+# WEBSITE UNDER CONSTRUCTION
 
-# COMING SOON - A weekly youth band!
+Please see our Facebook page for the most recent updates on the Windy City Brass Society!
 
-Watch this space for more details on our upcoming weekly-rehearsing youth brass band!
+https://www.facebook.com/profile.php?id=61559872056463
+
+# A weekly youth band!
+
+Email windycitybrasssociety@gmail.com for more information about joining our weekly rehearsing youth brass band.
 
 # About
 
 The Windy City Brass Society is a collection of some of the leading brass and percussion musicians in Chicago, dedicated to creating an enriching and fruitful education experience for youth brass and percussion musicians throughout the Chicagoland area. Through our Academy program, led by some of the top minds in competitive brass music, we seek to educate brass and percussion musicians from all communities in the brass band medium, challenging them and providing them with the tools to grow into strong, thoughtful musicians with a passion for creating wonderful music.
-
-# Event Highlights
-## Windy City Brass Academy
-Brass and percussion musicians in grades 8-12 are invited to participate in an all-day event where they will meet in section master classes and rehearse in a full brass band setting.
-
-## Performance
-The day will culminate in a concert at 7pm, when participants will have the opportunity to play alongside some of the finest brass band musicians in the area! 
-
-## Outstanding Instruction
-Participants will benefit from instruction by leading performers and educators from the Chicagoland area.
-
-# When and Where
-
-The Windy City Brass Academy's second session will take place on January 4, 2025, at the College of DuPage - 425 Fawell Blvd, Glen Ellyn, IL 60137.
-
-# Secure your spot!
-
-Are you ready to join us for this new musical adventure? [Fill out our RSVP form!](https://forms.gle/QoF72H8yGkV3JpvKA)
-
-# Mailing List
-
-Join our mailing list to stay informed about the latest activity in youth brass music! [Sign up here](https://mailchi.mp/c2f8d0ceabab/windy-city-brass-society)
 
 # Donations
 
